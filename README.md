@@ -5,7 +5,7 @@ This Python script reads PDF files from a specified folder and extracts client n
 ## Requirements
 
 - Python 3.x
-- MySQL database with a "clients table containing "client_number` and "email" columns
+- MySQL database with a "clients" table containing "client_number" and "email" columns
 - SMTP server for sending emails
 
 ## Installation
