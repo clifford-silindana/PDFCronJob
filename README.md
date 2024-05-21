@@ -1,11 +1,11 @@
 # Daily PDF Email Sender
 
-This Python script reads PDF files from a specified folder and extracts customer numbers from the file names. These customer numbers are primary keys for customers in a MySQL database, so it proceeds to look up corresponding email addresses and then sends the PDFs to the respective customers via email. The script is designed to run daily as a cron job.
+This Python script reads PDF files from a specified folder and extracts client numbers from the file names. These client numbers are primary keys for clients in a MySQL database, so it proceeds to look up corresponding email addresses and then sends the PDFs to the respective client via email. The script is designed to run daily as a cron job.
 
 ## Requirements
 
 - Python 3.x
-- MySQL database with a `customers` table containing `customer_number` and `email` columns
+- MySQL database with a "clients table containing "client_number` and "email" columns
 - SMTP server for sending emails
 
 ## Installation
