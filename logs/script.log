@@ -1,0 +1,28 @@
+2024-05-22 05:59:25,688 DEBUG:Email for client 09876: newgeeksontheblockconnect@gmail.com
+2024-05-22 05:59:34,371 DEBUG:Email sent to newgeeksontheblockconnect@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\09876.pdf
+2024-05-22 05:59:34,422 DEBUG:Email for client 12345: cliffords2105@gmail.com
+2024-05-22 05:59:41,474 DEBUG:Email sent to cliffords2105@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\12345.pdf
+2024-05-22 05:59:41,524 DEBUG:Email for client 54321: apexconnect000@gmail.com
+2024-05-22 05:59:47,937 DEBUG:Email sent to apexconnect000@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\54321.pdf
+2024-05-22 05:59:47,991 DEBUG:Email for client 67890: Lungilengwane23@gmail.com
+2024-05-22 05:59:55,530 DEBUG:Email sent to Lungilengwane23@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\67890.pdf
+2024-05-22 06:02:00,376 ERROR:Error: Authentication plugin 'caching_sha2_password' is not supported
+2024-05-22 06:02:00,377 ERROR:Error: Authentication plugin 'caching_sha2_password' is not supported
+2024-05-22 06:02:00,379 ERROR:Error: Authentication plugin 'caching_sha2_password' is not supported
+2024-05-22 06:02:00,380 ERROR:Error: Authentication plugin 'caching_sha2_password' is not supported
+2024-05-22 06:13:23,602 DEBUG:Email for client 09876: newgeeksontheblockconnect@gmail.com
+2024-05-22 06:13:32,575 DEBUG:Email sent to newgeeksontheblockconnect@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\09876.pdf
+2024-05-22 06:13:32,636 DEBUG:Email for client 12345: cliffords2105@gmail.com
+2024-05-22 06:13:40,052 DEBUG:Email sent to cliffords2105@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\12345.pdf
+2024-05-22 06:13:40,099 DEBUG:Email for client 54321: apexconnect000@gmail.com
+2024-05-22 06:13:46,402 DEBUG:Email sent to apexconnect000@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\54321.pdf
+2024-05-22 06:13:46,468 DEBUG:Email for client 67890: Lungilengwane23@gmail.com
+2024-05-22 06:13:53,870 DEBUG:Email sent to Lungilengwane23@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\67890.pdf
+2024-05-22 06:38:37,307 DEBUG:Email for client 09876: newgeeksontheblockconnect@gmail.com
+2024-05-22 06:38:45,145 DEBUG:Email sent to newgeeksontheblockconnect@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\pdfs\09876.pdf
+2024-05-22 06:38:45,179 DEBUG:Email for client 12345: cliffords2105@gmail.com
+2024-05-22 06:38:54,451 DEBUG:Email sent to cliffords2105@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\pdfs\12345.pdf
+2024-05-22 06:38:54,496 DEBUG:Email for client 54321: apexconnect000@gmail.com
+2024-05-22 06:39:03,040 DEBUG:Email sent to apexconnect000@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\pdfs\54321.pdf
+2024-05-22 06:39:03,075 DEBUG:Email for client 67890: Lungilengwane23@gmail.com
+2024-05-22 06:39:10,848 DEBUG:Email sent to Lungilengwane23@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\pdfs\67890.pdf
