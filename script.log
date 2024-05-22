@@ -6,3 +6,7 @@
 2024-05-22 05:59:47,937 DEBUG:Email sent to apexconnect000@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\54321.pdf
 2024-05-22 05:59:47,991 DEBUG:Email for client 67890: Lungilengwane23@gmail.com
 2024-05-22 05:59:55,530 DEBUG:Email sent to Lungilengwane23@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\67890.pdf
+2024-05-22 06:02:00,376 ERROR:Error: Authentication plugin 'caching_sha2_password' is not supported
+2024-05-22 06:02:00,377 ERROR:Error: Authentication plugin 'caching_sha2_password' is not supported
+2024-05-22 06:02:00,379 ERROR:Error: Authentication plugin 'caching_sha2_password' is not supported
+2024-05-22 06:02:00,380 ERROR:Error: Authentication plugin 'caching_sha2_password' is not supported
