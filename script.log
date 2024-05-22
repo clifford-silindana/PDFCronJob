@@ -1,0 +1,8 @@
+2024-05-22 05:59:25,688 DEBUG:Email for client 09876: newgeeksontheblockconnect@gmail.com
+2024-05-22 05:59:34,371 DEBUG:Email sent to newgeeksontheblockconnect@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\09876.pdf
+2024-05-22 05:59:34,422 DEBUG:Email for client 12345: cliffords2105@gmail.com
+2024-05-22 05:59:41,474 DEBUG:Email sent to cliffords2105@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\12345.pdf
+2024-05-22 05:59:41,524 DEBUG:Email for client 54321: apexconnect000@gmail.com
+2024-05-22 05:59:47,937 DEBUG:Email sent to apexconnect000@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\54321.pdf
+2024-05-22 05:59:47,991 DEBUG:Email for client 67890: Lungilengwane23@gmail.com
+2024-05-22 05:59:55,530 DEBUG:Email sent to Lungilengwane23@gmail.com with attachment C:\Users\CLIFFORD\Documents\PSG Interview\cronjob\PDFcronjob\..\PDFs\67890.pdf
