@@ -18,5 +18,11 @@ INSERT INTO clients (client_number, email) VALUES ('54321', 'client3@example.com
 INSERT INTO clients (client_number, email) VALUES ('09876', 'client4@example.com');
 
 -- SELECT * FROM clients;
+select * from clients;
+
+UPDATE clients
+SET 
+email = "newgeeksontheblockconnect@gmail.com"
+WHERE client_number = "09876";
 
 
